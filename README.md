@@ -87,18 +87,10 @@ For more details, please refer to our paper <a href="https://arxiv.org/abs/2408.
 
 If you find our paper&tool interesting and useful, please feel free to give us a star and cite us through:
 ```
-@article{huang2024resilience,
-  author    = {Jen{-}tse Huang and
-               Jiaxu Zhou and
-               Tailin Jin and
-               Xuhui Zhou and
-               Zixi Chen and
-               Wenxuan Wang and
-               Youliang Yuan and
-               Michael R. Lyu and
-               Maarten Sap},
-  title     = {On the Resilience of LLM-Based Multi-Agent Collaboration with Faulty Agents},
-  journal   = {arXiv Preprint: 2408.00989},
-  year      = {2024}
+@inproceedings{huang2025resilience,
+  title={On the Resilience of LLM-Based Multi-Agent Collaboration with Faulty Agents},
+  author={Huang, Jen-tse and Zhou, Jiaxu and Jin, Tailin and Zhou, Xuhui and Chen, Zixi and Wang, Wenxuan and Yuan, Youliang and Lyu, Michael and Sap, Maarten},
+  booktitle={Forty-second International Conference on Machine Learning},
+  year={2025}
 }
 ```
